@@ -1,26 +1,26 @@
-#Project Title
+# Project Title
 
 Short one-sentence summary of the project.
 
-##Features
+## Features
 
-##Project Structure
+## Project Structure
 
 (Describe folders and files here.)
 
-##Installation
+## Installation
 
 List steps to install dependencies and set up the project.
 
-##Usage
+## Usage
 
 Explain how to run the project or show example usage.
 
-##Results
+## Results
 
 (Add plots, metrics, confusion matrix, screenshots, etc.)
 
-##Methodology
+## Methodology
 
 Data sources:
 
@@ -30,8 +30,8 @@ Training details:
 
 Evaluation methods:
 
-##Roadmap
-##Contributing
+## Roadmap
+## Contributing
 
 Fork the repository
 
@@ -41,14 +41,14 @@ Commit your changes
 
 Open a pull request
 
-##Testing
+## Testing
 
 Explain how to run tests.
 
-##License
+## License
 
 Specify the license here (MIT, GPL, etc.)
 
-##Contact
+## Contact
 
 Name / Email / Links
